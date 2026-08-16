@@ -1,0 +1,58 @@
+# 📚 Daily Learning — OS, CN & Java
+
+## 💻 CPU Scheduling Algorithms
+
+Learned and implemented **CPU Scheduling Algorithms in Java**.
+
+Topics covered:
+
+* FCFS (First Come First Serve)
+* SJF (Shortest Job First)
+* SRTF (Shortest Remaining Time First)
+* Priority Scheduling
+* Round Robin
+
+Focused on understanding:
+
+* Waiting Time
+* Turnaround Time
+* Completion Time
+* Response Time
+* Scheduling logic and implementation
+
+## 💽 Disk Scheduling Algorithms
+
+Learned and implemented **Disk Scheduling Algorithms in Java**.
+
+Topics covered:
+
+* FCFS
+* SSTF
+* SCAN
+* C-SCAN
+* LOOK
+* C-LOOK
+
+Focused on calculating **seek sequence and total seek time**.
+
+## 🌐 Computer Networks
+
+Spent **10 minutes** learning the basics of:
+
+* What is a Network?
+* What is the Internet?
+* Difference between Network and Internet
+
+## 📊 Today's Progress
+
+| Area              | Progress                |
+| ----------------- | ----------------------- |
+| CPU Scheduling    | **Java Implementation** |
+| Disk Scheduling   | **Java Implementation** |
+| Computer Networks | **10 min**              |
+
+### 🎯 Key Takeaway
+
+Today's focus was on strengthening **Operating Systems concepts through Java implementation** and starting the fundamentals of **Computer Networks**.
+
+> **Learn → Implement → Understand → Repeat. 🚀**
